@@ -34,19 +34,6 @@ It simulates a friendly virtual assistant that helps users understand symptoms, 
 
 ---
 
-### 📂 Folder Structure
-
-```
-HealthcareAI/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    └── images/
-```
-
----
-
 
 ### 🧠 Prompt Design Example
 
